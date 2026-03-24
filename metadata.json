@@ -1,0 +1,5 @@
+{
+  "name": "IkramiFy FX - Prompt Generator",
+  "description": "A futuristic AI prompt generator with Supabase auth, history, and pro modes.",
+  "requestFramePermissions": []
+}
